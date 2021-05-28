@@ -1,8 +1,8 @@
 # Work-Schedule
 
-[image](https://user-images.githubusercontent.com/77900224/119916605-d8b5df80-bf32-11eb-922c-c03dc7513572.png)
-[image](https://user-images.githubusercontent.com/77900224/119916614-de132a00-bf32-11eb-8fea-102ba8f4b7c6.png)
-[image](https://user-images.githubusercontent.com/77900224/119916622-e23f4780-bf32-11eb-847f-d9e4c550c7ac.png)
+![image](https://user-images.githubusercontent.com/77900224/119916605-d8b5df80-bf32-11eb-922c-c03dc7513572.png)
+![image](https://user-images.githubusercontent.com/77900224/119916614-de132a00-bf32-11eb-8fea-102ba8f4b7c6.png)
+![image](https://user-images.githubusercontent.com/77900224/119916622-e23f4780-bf32-11eb-847f-d9e4c550c7ac.png)
 
 
 
